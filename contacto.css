@@ -1,0 +1,42 @@
+*{
+    margin: 
+    box-sizing: border-box;
+}
+
+.contenedor{
+    width: 250px ;
+    margin-left:40%;
+}
+
+body{
+    height: 
+    display: flex;
+    background-color;
+}
+
+
+
+.form{
+    margin: auto;
+    background-color: #ffffff;
+    width: 90%;
+    max-width: 500px;
+    padding: ;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px -5px rgb(0, 0, 0, .3);
+}
+
+.ojuju-> {
+    font-family: "Ojuju", sans-serif;
+    font-optical-sizing:auto;
+    font-weight:100px;
+    font-style:normal;
+  }
+
+  }
+h3{
+    text-align:center;
+    font-size: 2.5rem;
+    width:
+    color:#BF3939
+}

@@ -1,0 +1,115 @@
+.contenedor{
+    width: 250px ;
+    margin-left:60%;
+}
+
+.form{
+    margin: 10;
+    background-color: #ffffff;
+    width: 90%;
+    max-width: 400px;
+    padding: 4.5em 3em;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px -5px rgb(0, 0, 0, .3);
+}
+
+.parrafo{
+    background-color:#fef9ff;
+    padding: .5rem;
+    display: flex;
+    width: 700px;
+    align-items:center;
+    justify-content:space-around;
+    align-content:space-between;
+}
+
+.ojuju-> {
+    font-family: "Ojuju", sans-serif;
+    font-optical-sizing:auto
+    font-weight:100;
+    font-style:normal
+  }
+  
+  html{
+      font-size: 62.5%;
+  }
+  body{
+      font-size: 16px;
+  }
+
+  .titulo{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.titulo span{
+    font-size: 2rem;
+
+}
+h3{
+    text-align:center;
+    font-size: 2.5rem;
+    width:
+    color:#721091
+}
+
+h2{
+text-align:center;
+font-size: 2rem;
+color:#0c010f
+}
+
+
+p{
+    text-align:center;
+    font-size: 2rem;
+    color:#081743
+}
+
+h5{
+    width: 700px;
+    text-align:left;
+    font-weight: 10;
+    font-size: 1.7rem;
+    color:#081743;
+}
+
+.contenedor1{
+    width: 90rem;
+    height: 1.7rem;
+    margin: 0 auto;
+}
+
+.contenedor2{
+    width: 70rem;
+    height: 1.7rem;
+    margin: 0 auto;
+}
+
+.navegacion-principal{
+    background-color:#ffffff;
+    padding: .5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navegacion-principal a{
+    text-decoration: none;
+    color:#721091;
+    font-size: 2rem;
+    font-weight: 200;
+}
+
+.navegacion-final{
+    background-color:#fdfdff;
+    padding: .5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navegacion-final a{
+    text-decoration: none;
+    color:#721091;
+    font-size: 2rem;
+    font-weight: 200;
+}
